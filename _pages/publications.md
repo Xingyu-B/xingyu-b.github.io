@@ -20,6 +20,18 @@ __Health Insurance and the Rise of Female Labor Forces: Evidence from New Cooper
 
 # Inactive Working Papers
 
+__Planning or marketing? Maternal malnutrition during pregnancy and adult education.__ 2022.
+
+<details>
+<summary>Abstract</summary>
+  <div style = "text-align: justify; line-height: 1.5;">
+  <font size = "3"> 
+   This paper evaluates the reform and opening-up policy in China, a transition from the central planned to market economy, on the increase of the child's educational attainment. Based on the individual-level population census data and a cohort difference-in-differences strategy, I find that the reform policy has a subtle but significantly positive effect on the increase of the child’s educational attainment, especially in less educated areas. The results are robust to the inclusion of confounders and provide suggestive evidence that the market economy can ameliorate the maternal malnutrition and reduce the regional and gender education inequality caused by the inappropriate economic system.
+  </font>
+  </div>
+</details>
+
+
 __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
 [[drafts](../assets/papers/temp_mig.pdf)]
 
