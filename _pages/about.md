@@ -15,4 +15,4 @@ I am a MPhil student in the School of Economics at Singapore Management Universi
 
 My research interest focuses on Labor Economics and Health Economics.
 
-Email: [xybai.2022@me.smu.edu.sg](mailto: xybai.2022@me.smu.edu.sg)
+Email: xybai.2022@me.smu.edu.sg
