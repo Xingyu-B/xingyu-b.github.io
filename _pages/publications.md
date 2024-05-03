@@ -36,7 +36,7 @@ __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
 __Board Faultlines and Corporate Frauds: Evidence from China.__ 2021.
 <details>
 <summary> Absract</summary>
-  <div style="text-align: justify;">
+  <div style = "text-align: justify; line-height: 1;">
   <font size = "2"> 
   This paper takes China's A-share listed companies from 2010 to 2019 as research samples to study the influence of different types of board faultlines on the violations of listed companies. Results from Bivariate Probit Model show that board fault zone has an overall inhibiting effect on corporate frauds and significantly increases the probability of being investigated for violations. Specifically, different types of faultlines affect different types of frauds. And this effect is more obvious in state-owned enterprises and companies with better internal control. Further analysis shows that the board faultlines has a significant inhibitory effect on different levels of violations, and is conducive to shorten the inspection time.
   </font>
