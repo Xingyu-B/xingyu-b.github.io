@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xingyu Bai"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,6 @@ redirect_from:
 
 
 ------
-I am Xingyu Bai, a MPhil student in the School of Economics at Singapore Management University. My research interest focuses on Labor Economics and Health Economics.
+I am a MPhil student in the School of Economics at Singapore Management University. 
+
+My research interest focuses on Labor Economics and Health Economics.
