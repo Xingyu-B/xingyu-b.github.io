@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+</style>
+
 # Working Papers
 
 __Health Insurance and the Rise of Female Labor Forces: Evidence from New Cooperative Medical Scheme.__ 2024.
