@@ -12,7 +12,7 @@ title                    : "Xingyu Bai"
 title_separator          : "-"
 name                     : &name "Xingyu Bai"
 description              : &description "personal description"
-url                      : https://xingyu-b.github.io/xingyu-econ.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xingyu-b.github.io/xingyu-econ.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xingyu-B/xingyu-econ.github.io"
 
