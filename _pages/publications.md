@@ -21,6 +21,7 @@ __Health Insurance and the Rise of Female Labor Forces: Evidence from New Cooper
 # Inactive Working Papers
 
 __Planning or marketing? Maternal malnutrition during pregnancy and adult education.__ 2022.
+[[drafts](../assets/papers/planning_marketing_education.pdf)]
 
 <details>
 <summary>Abstract</summary>
