@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Xingyu Bai"
 description              : &description "personal description"
 url                      : https://xingyu-b.github.io/xingyu-econ.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "Xingyu-B/xingyu-econ.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : xingyu-bai-462360243 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
