@@ -21,8 +21,7 @@ __Health Insurance and the Rise of Female Labor Forces: Evidence from New Cooper
 # Inactive Working Papers
 
 __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
-
-[drafts](../assets/papers/temp_mig.pdf)
+[[drafts](../assets/papers/temp_mig.pdf)]
 
 <details>
 <summary>Abstract</summary>
