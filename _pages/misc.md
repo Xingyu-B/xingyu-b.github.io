@@ -8,6 +8,8 @@ author_profile: true
 
 Some of my works of Chinese calligraphy.
 
-![](../images/m1.png)
 
-![](../images/m2.png)
+<div style="display:inline-block">
+  <img src="../images/m1.png">
+  <img src="../images/m2.png">
+</div>
