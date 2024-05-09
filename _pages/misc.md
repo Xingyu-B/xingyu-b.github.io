@@ -9,7 +9,6 @@ author_profile: true
 Some of my works of Chinese calligraphy.
 
 
-<div style="display:inline-block">
-  <img src="../images/m1.png">
-  <img src="../images/m2.png">
-</div>
+![](../images/m1.png =100)
+
+![](../images/m2.png)
