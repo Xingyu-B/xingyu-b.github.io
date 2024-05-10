@@ -9,9 +9,12 @@ author_profile: true
 Some of my works of Chinese calligraphy.
 
 
-![](../images/m1.png)
-
-![](../images/m2.png)
+<table>
+  <tr>
+    <td align="center"><img src="../images/m2.png"  width="500"></td>
+    <td align="center"><img src="../images/m1.png"  width="500"></td>
+  </tr>
+</table>
 
 ![](../images/m3.png)
 
@@ -19,4 +22,3 @@ Some of my works of Chinese calligraphy.
 
 ![](../images/m8.png)
 
-<img src="../images/m1.png" width="300">
