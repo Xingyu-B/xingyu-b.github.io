@@ -9,7 +9,7 @@ author_profile: true
 Some of my works of Chinese calligraphy.
 
 
-![](../images/m1.png)
+![](../images/m1.png){width=50%}
 
 ![](../images/m2.png)
 
