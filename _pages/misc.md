@@ -11,16 +11,16 @@ Some of my works of Chinese calligraphy.
 
 <table>
   <tr>
-    <td align="center"><img src="../images/m8.png"  width="600"></td>
-    <td align="center"><img src="../images/m1.png"  width="600"></td>
+    <td align="center"><img src="https://github.com/Xingyu-B/xingyu-b.github.io/blob/master/images/m1.png?raw=true"  width="600"></td>
+    <td align="center"><img src="https://github.com/Xingyu-B/xingyu-b.github.io/blob/master/images/m7.png?raw=true"  width="600"></td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td align="center"><img src="../images/m10.png"  width="400"></td>
-    <td align="center"><img src="../images/m6.png"  width="400"></td>
+    <td align="center"><img src="https://github.com/Xingyu-B/xingyu-b.github.io/blob/master/images/m10.png?raw=true"  width="400"></td>
+    <td align="center"><img src="https://github.com/Xingyu-B/xingyu-b.github.io/blob/master/images/m6.png?raw=true"  width="400"></td>
   </tr>
 </table>
 
