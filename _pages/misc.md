@@ -25,7 +25,7 @@ Some of my works of Chinese calligraphy.
 </table>
 
 
-![](../images/m9.png)
+![](https://github.com/Xingyu-B/xingyu-b.github.io/blob/master/images/m9.png?raw=true)
 
 
 
