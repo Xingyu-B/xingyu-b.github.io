@@ -34,7 +34,7 @@ Some of my works of Chinese calligraphy.
 
 <table>
   <tr>
-    <td align="center"><img src="../images/m8.png"  width="300"></td>
+    <td align="center"><img src="../images/m8.png"  width="600"></td>
     <td align="center"><img src="../images/m7.png"  width="600"></td>
   </tr>
 </table>
