@@ -20,7 +20,7 @@ Some of my works of Chinese calligraphy.
 <table>
   <tr>
     <td align="center"><img src="../images/m10.png"  width="400"></td>
-    <td align="center"><img src="../images/m7.png"  width="400"></td>
+    <td align="center"><img src="../images/m6.png"  width="400"></td>
   </tr>
 </table>
 
