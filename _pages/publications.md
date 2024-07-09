@@ -10,7 +10,7 @@ author_profile: true
 # Working in Progress
 
 * __Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.<br>[draft coming soon]
-    > <details style="margin-top: -1.2em;">
+    > <details style="margin-top: -1.4em;">
     > <summary style="font-size: 18px;">Abstract</summary>
     >  <div style = "text-align: justify; line-height: 1.5;">
     >  <font size = "3"> 
@@ -28,7 +28,7 @@ author_profile: true
 - __Planning or marketing? Maternal malnutrition during pregnancy and adult education.__ 2022.
 [[drafts](../assets/papers/planning_marketing_education.pdf)]
 
-    > <details style="margin-top: -1.2em;">
+    > <details style="margin-top: -1.4em;">
     > <summary>Abstract</summary>
     >   <div style = "text-align: justify; line-height: 1.5;">
     >   <font size = "3"> 
@@ -41,7 +41,7 @@ author_profile: true
 - __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
 [[drafts](../assets/papers/temp_mig.pdf)]
 
-    > <details style="margin-top: -1.2em;">
+    > <details style="margin-top: -1.4em;">
     > <summary>Abstract</summary>
     >   <div style = "text-align: justify; line-height: 1.5;">
     >   <font size = "3"> 
