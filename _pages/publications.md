@@ -9,7 +9,7 @@ author_profile: true
 
 # Working in Progress
 
-__Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.
+* __Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.
 [draft coming soon]
 
 <details>
@@ -27,7 +27,7 @@ __Health Insurance and the Rise of Women: Evidence from the New Cooperative Medi
 
 # Inactive Working Papers
 
-__Planning or marketing? Maternal malnutrition during pregnancy and adult education.__ 2022.
+* __Planning or marketing? Maternal malnutrition during pregnancy and adult education.__ 2022.
 [[drafts](../assets/papers/planning_marketing_education.pdf)]
 
 <details>
@@ -40,7 +40,7 @@ __Planning or marketing? Maternal malnutrition during pregnancy and adult educat
 </details>
 
 
-__Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
+* __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
 [[drafts](../assets/papers/temp_mig.pdf)]
 
 <details>
@@ -54,7 +54,7 @@ __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
 
 
 
-__Board Faultlines and Corporate Frauds: Evidence from China.__ 2021.
+* __Board Faultlines and Corporate Frauds: Evidence from China.__ 2021.
 <details>
 <summary>Abstract</summary>
   <div style = "text-align: justify; line-height: 1.5;">
