@@ -9,7 +9,7 @@ author_profile: true
 
 # Working in Progress
 
-__Health Insurance and the Rise of Female Labor Forces: Evidence from New Cooperative Medical Scheme.__ 2024.
+__Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.
 [draft coming soon]
 
 <details>
