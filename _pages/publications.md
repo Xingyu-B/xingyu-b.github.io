@@ -12,7 +12,14 @@ author_profile: true
 __Health Insurance and the Rise of Female Labor Forces: Evidence from New Cooperative Medical Scheme.__ 2024.
 [draft coming soon]
 
-
+<details>
+<summary>Abstract</summary>
+  <div style = "text-align: justify; line-height: 1.5;">
+  <font size = "3"> 
+   Females are traditionally viewed as the primary providers of informal parental care in China, especially in rural areas. We investigate whether the health insurance coverage in rural China, the New Cooperative Medical Scheme (NCMS), can unleash more female labor forces by reducing the burden of informal parental care. Employing a heterogeneity-robust difference-in-differences estimation, we find that the NCMS has a significant positive impact on female labor supply, primarily in non-farm occupations. In contrast, we observe no significant changes in male labor supply. We explore the mechanism by showing that the NCMS significantly decreases the provision and demand for parental care by females. Our findings illuminate the importance of public health insurance in developing countries, highlighting its potential to stimulate labor supply, mitigate gender disparities in the labor market, and empower women more bargaining power within household.
+  </font>
+  </div>
+</details>
 
 
 
