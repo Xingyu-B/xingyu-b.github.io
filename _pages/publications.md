@@ -11,7 +11,7 @@ author_profile: true
 
 * __Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.<br>
 [draft coming soon]
-    > <details style="margin-top: 5px;">
+    > <details style="margin-top: 1em;">
     > <summary style="font-size: 18px;">Abstract</summary>
     >  <div style = "text-align: justify; line-height: 1.5;">
     >  <font size = "3"> 
