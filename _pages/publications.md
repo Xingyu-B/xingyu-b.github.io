@@ -27,10 +27,6 @@ author_profile: true
 
 - __Planning or marketing? Maternal malnutrition during pregnancy and adult education.__ 2022.
 
----
-[[drafts](../assets/papers/planning_marketing_education.pdf)]
----
-
     > <details style="margin-top: -1.4em;">
     > <summary>Abstract</summary>
     >   <div style = "text-align: justify; line-height: 1.5;">
@@ -42,10 +38,6 @@ author_profile: true
 
 
 - __Extreme Temperatures and Internal Migration: Evidence from China.__ 2022.
-
----
-[[drafts](../assets/papers/temp_mig.pdf)]
----
 
     > <details style="margin-top: -1.4em;">
     > <summary>Abstract</summary>
