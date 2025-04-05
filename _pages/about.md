@@ -11,8 +11,8 @@ redirect_from:
 
 
 ------
-I am a MPhil student in the School of Economics at Singapore Management University. 
+I am an incoming Economics Ph.D. student at Stony Brook University. I received my M.Phil. in Economics degree from Singapore Management University in Aug 2024. 
 
-My research focuses on health, gender, and labor economics.
+My research focuses on labor, gender, and family economics.
 
-Email: [xybai.2022@me.smu.edu.sg](mailto:xybai.2022@me.smu.edu.sg)
+Email: [xingyu.bai@stonybrook.edu](mailto:xingyu.bai@stonybrook.edu)
