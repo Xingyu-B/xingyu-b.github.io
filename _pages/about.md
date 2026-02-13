@@ -11,7 +11,7 @@ redirect_from:
 
 
 ------
-I am an incoming Economics Ph.D. student at Stony Brook University. I received my M.Phil. in Economics degree from Singapore Management University in Aug 2024. 
+I am a Economics Ph.D. student at Stony Brook University. I received my M.Phil. in Economics degree from Singapore Management University in Aug 2024. 
 
 My research focuses on labor, gender, and family economics.
 
