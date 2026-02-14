@@ -9,7 +9,7 @@ author_profile: true
 
 # Working in Progress
 
-* __Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.<br>[draft coming soon]
+* __Health Insurance and the Rise of Women: Evidence from the New Cooperative Medical Scheme.__ 2024.<br>[draft](../assets/papers/NCMS.pdf).
     > <details style="margin-top: -1.4em;">
     > <summary style="font-size: 18px;">Abstract</summary>
     >  <div style = "text-align: justify; line-height: 1.5;">
